@@ -9,3 +9,6 @@ npm-debug.log*
 yarn-debug.log* 
 logs/
 *.log
+
+# Configuración de vs code
+.vscode/
